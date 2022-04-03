@@ -2,10 +2,10 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "Line five also is changed"
 
 ---
 
-this is my text in the new branch
+this line is changed
 
 Use the left arrow to go back!
